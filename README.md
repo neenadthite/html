@@ -1,4 +1,4 @@
-# html
+# HTML
 The webpage.html file describes a standard html format. The webpage contains standard syntax used. Some of them are described below.<br>
 head>: heading<br>
 p>: paragraph<br>
